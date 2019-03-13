@@ -1,0 +1,25 @@
+html {
+  background-color: #ff6666;
+}
+
+h1 {
+  padding-right: 20px;
+  float: right;
+  width: 70%;
+  color: white;
+  font-weight: bold;
+}
+
+.posts {
+  padding-right: 20px;
+  float: right;
+  font-family: sans-serif;
+  width: 70%;
+  margin-top: 20px;
+}
+
+span {
+  color: white;
+  font-style: italic;
+  width: 25%;
+}
